@@ -1,6 +1,6 @@
 # QrTinker
 
-##Flutter project.
+Flutter App project.
 
 ## Getting Started
 
